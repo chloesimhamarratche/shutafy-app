@@ -2,6 +2,8 @@
 
 Shutafy is a mobile-first roommate matching application.
 
+https://shutafy.vercel.app/
+
 ## Project concept
 
 Find the right roommate. Share more than a home.
