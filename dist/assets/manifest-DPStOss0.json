@@ -1,0 +1,10 @@
+{
+  "name": "Shutafy",
+  "short_name": "Shutafy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F6EFE6",
+  "theme_color": "#2E7D40",
+  "description": "Find the right roommate. Share more than a home.",
+  "icons": []
+}
